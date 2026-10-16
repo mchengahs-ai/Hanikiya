@@ -1,0 +1,8 @@
+{
+  "name": "Hanikiya Stationery, Graphics & Production",
+  "description": "Daily sales, expenses, customer debt tracking, and shop records system for Hanikiya Stationery, Graphics & Production with English and Chichewa language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
